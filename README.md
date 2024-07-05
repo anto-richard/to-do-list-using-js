@@ -93,6 +93,7 @@ Style the application to make it user-friendly and visually appealing.
 </body>
 </html>
 
+
 ```
 
 ## styles.css : 
@@ -101,8 +102,8 @@ Style the application to make it user-friendly and visually appealing.
 
 body {
   font-family: Arial, sans-serif;
-  background: url('https://wallpapers.com/images/hd/black-and-gold-glitter-wallpaper-hs03v2ldyulosznd.jpg') no-repeat center center/cover;
-  color: #ffffff;
+  background: url('https://wallpapers.com/images/hd/white-glitter-em26ydffuobuskuj.jpg') no-repeat center center/cover;
+  color: #000000;
   text-align: center;
   padding: 0;
   margin: 0;
@@ -171,7 +172,7 @@ button {
   font-size: 1.2em;
   border: none;
   background-color: #007c91;
-  color: #ffffff;
+  color: #000000;
   border-radius: 0 5px 5px 0;
   cursor: pointer;
 }
@@ -189,7 +190,7 @@ ul {
 }
 
 li {
-  background-color: #00838f;
+  background-color: #159b9b;
   padding: 15px;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -302,15 +303,15 @@ loadList();
 
 ### Adding to-do tasks to the list :
 
-![img1](https://github.com/anto-richard/to-do-list-using-js/assets/93427534/a41123ea-f64c-48c9-98fc-73a56b17b797)
+![img1](https://github.com/anto-richard/to-do-list-using-js/assets/93427534/98a035ba-517e-40d0-8b47-fd3dbb18cd7b)
 
 ### The completed to-do tasks are scored out :
 
-![img2](https://github.com/anto-richard/to-do-list-using-js/assets/93427534/ce9f0be7-51f0-4f25-8d97-c26c93df44f3)
+![img2](https://github.com/anto-richard/to-do-list-using-js/assets/93427534/c83400da-12ed-44f9-aaa4-f6a57cb810b4)
 
 ### The completed process are removed by pressing the "X" button :
 
-![img3](https://github.com/anto-richard/to-do-list-using-js/assets/93427534/adf2d812-8c02-4fa5-8c0c-b2f8d9bbc5d7)
+![img3](https://github.com/anto-richard/to-do-list-using-js/assets/93427534/5b1e2455-7b4a-47a6-87e8-7458413a1c82)
 
 ## Result :
 
